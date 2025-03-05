@@ -1,5 +1,3 @@
-<h1 align="center">MD Asif Qumar</h1>
-
 ## 👋 About Me
 I'm a **Dynamic Data Engineer** with 3 years of experience in optimizing data pipelines and enhancing data quality. Skilled in Python, SQL, and cloud platforms (Azure, GCP). Proven track record of boosting efficiency and driving revenue growth. Award-winning performer with expertise in data visualization and analysis.
 
