@@ -34,16 +34,14 @@ I'm a **Dynamic Data Engineer** with 3 years of experience in optimizing data pi
   <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel"/>
 </p>
 
-## 💼 Experience/Projects
-### UNITEDHEALTH GROUP (OPTUM) | Data Engineer | Gurgaon, India | August 2022 – Present
-- 🚀 Architected and optimized data pipelines on GCP for analyzing market trends across 50+ brands, leading to a $150 million reduction in Total Cost of Ownership (TCO) through strategic data initiatives.
-- 🔍 Conducted data quality (DQ) checks on medical claims data, improving inventory liquidation and achieving a 10% increase in overall inventory movement.
-- 🐍 Leveraged Python and advanced Excel techniques to automate reporting processes, improving performance tracking dashboards and supporting a 17% revenue growth.
-- 📊 Analyzed medical and behavioral data to minimize false claims and reduce insurance claim return rates by 6%, improving overall claim processing efficiency.
-- 📈 Enhanced the effectiveness and reach of various unclaimed policies and misconduct policies, leveraging SQL and Excel for data analysis, directly leading to a significant 2% boost in ROI and revenue growth.
-- ⚡ Streamlined and optimized SQL query operations, successfully reducing processing times by over 50%, thus enhancing overall database efficiency and response times for business-critical operations.
-- 📉 Used statistical analysis and predictive modeling in threshold checks, segmentation to enhance Data Quality.
-- 🛠️ Utilized SQL, advanced Excel, and Python for data processing and analysis, successfully deploying a quality project for clients, focusing on efficiency and accuracy in data handling.
+## 💼 Experience
+### UNITEDHEALTH GROUP (OPTUM) | Data Engineer | Gurgaon, India | Aug 2022 – Present
+- **Data Pipelines:** Architected and optimized on GCP, reducing TCO by $150M.
+- **Data Quality:** Conducted DQ checks, improving inventory movement by 10%.
+- **Automation:** Automated reporting with Python and Excel, boosting revenue by 17%.
+- **Claims Analysis:** Reduced false claims by 6%, enhancing processing efficiency.
+- **SQL Optimization:** Reduced query processing times by 50%.
+- **Predictive Modeling:** Enhanced data quality with statistical analysis.
 
 ## 🏆 Awards & Achievements
 - 🥇 Diamond Performance Award, UnitedHealth Group (June & October 2023)
